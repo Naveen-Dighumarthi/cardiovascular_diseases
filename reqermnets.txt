@@ -1,6 +1,5 @@
-
-
 streamlit    # Version of Streamlit you're using
 tensorflow   # Version of TensorFlow you're using
 numpy      # Version of NumPy
 Pillow      # Version of Pillow for image processing
+tensorflow==2.12.0
