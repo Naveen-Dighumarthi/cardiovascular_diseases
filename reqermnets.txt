@@ -1,8 +1,7 @@
 streamlit    # Version of Streamlit you're using
 tensorflow   # Version of TensorFlow you're using
 numpy      # Version of NumPy
-Pillow      # Version of Pillow for image processing
-streamlit 
+Pillow      # Version of Pillow for image processi
 from tensorflow.keras.models  
 tensorflow.keras.preprocessing
 
